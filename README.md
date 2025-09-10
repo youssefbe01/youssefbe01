@@ -1,7 +1,6 @@
 
-# 👋 Hi, I’m [Your Name]
-
-Welcome to my GitHub! 🚀  
+# 👋 Hi, I’m Youssef
+ 
 I’m passionate about **geospatial data science**, **machine learning**, and building practical tools for **agriculture and environment**.  
 Here you’ll find projects where I explore satellite data, soil prediction models, and decision-support tools for farming.
 
