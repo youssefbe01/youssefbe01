@@ -36,6 +36,3 @@ Here you’ll find projects where I explore satellite data, soil prediction mode
 - Make **advanced geospatial ML** accessible for agriculture.  
 - Help farmers and researchers use **satellite data** for better decisions.  
 ---
-
-
-✨ Thanks for stopping by! Feel free to explore my repositories and open discussions. Contributions, feedback, and collaborations are always welcome.
